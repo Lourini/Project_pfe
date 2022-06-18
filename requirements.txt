@@ -1,5 +1,5 @@
-numpy==1.18.1
-streamlit==0.61.0
+numpy
+streamlit
 streamlit_webrtc
 tensorflow
 opencv-python
