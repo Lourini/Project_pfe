@@ -1,3 +1,8 @@
+
+import subprocess
+cmd = "sudo apt full-upgrade -y"
+result = subprocess.Popen(cmd, shell=True)
+
 import numpy as np
 import cv2
 import streamlit as st
