@@ -3,6 +3,3 @@ opencv-python
 streamlit
 tensorflow
 streamlit_webrtc
-ffmpeg
-libsm6 
-libxext6
